@@ -1,0 +1,15 @@
+HAI 1.2
+    BTW THIS IS WRITTEN BY TARITH
+    
+    I HAS A Mesg1 ITZ "HAI WORLD!"
+    I HAS A Mesg2 ITZ "MANY WOWS"
+    I HAS A Mesg3 ITZ "Why dose LOLCODE exist"
+    
+    CAN HAS STDIO?
+
+    BTW THIS PRINTS THOSE MESSAGES
+    VISIBLE Mesg1
+    VISIBLE Mesg2
+    VISIBLE Mesg3
+
+KTHXBYE
